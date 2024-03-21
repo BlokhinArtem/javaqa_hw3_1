@@ -1,4 +1,4 @@
-public class BonusMilesService {
+public class bonusMilesService {
 
     public int calculate(int price) {
 
